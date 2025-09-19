@@ -1,1 +1,1 @@
-# PTC
+All data collected for the study cannot be made publicly available. The source codes to train the model in this study are freely available at https://github.com/kenshohara/video-classification-3d-cnn-pytorch.
